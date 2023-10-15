@@ -2,24 +2,24 @@
   --primary-color: #9A97F3;
   --secondary-color: #818cab;
   --font-color: #e1e1ff;
-  --bg-color: #24a5e2;
+  --bg-color: #8c41af;
   --heading-color: #818cab;
   --bg-matata-color: linear-gradient(0deg, rgb(4, 4, 4) 0%, rgb(20, 20, 20) 100%);
   --bg-metete-color:linear-gradient(0deg,  rgb(20, 20, 20) 0%,  rgb(4, 4, 4) 100%);
-    --butoto-color:#24a5e2;
+    --butoto-color:#8c41af;
     --navkunta-color:black;
 }
 [data-theme=dark] {
   --primary-color: #112a73;
   --secondary-color: #536390;
   --font-color: #000000;
-  --bg-color:  #84c8ff;
+  --bg-color:  #8c41af;
   --heading-color: #292922;
   --bg-matata-color: linear-gradient(0deg, rgb(69, 89, 221)  0%, rgba(36,165,226,1) 100%);
   --bg-metete-color:linear-gradient(0deg, rgba(24,167,222,1) 0%, rgb(69, 89, 221) 100%);
   --butoto-color:rgb(255, 255, 255);
   --navkunta-color:rgb(19, 122, 207);
-  -pabebe-color
+  --pabebe-color:#8c41af;
 }
 html {
   -ms-text-size-adjust: 100%;
@@ -2195,7 +2195,7 @@ ul {
 
 li {
   color: var(--font-color);
-  background-image: url("https://global-uploads.webflow.com/636a3ef2888e14e784cc8d53/636a3ef2888e142b06cc8d77_icon-check.svg");
+  background-image: url("./../../../sddds.png");
   background-position: 0%;
   background-repeat: no-repeat;
   background-size: 12px 8px;
@@ -3461,7 +3461,7 @@ li {
   opacity: .5;
   filter: blur(150px);
   -webkit-text-fill-color: inherit;
-  background-image: url("https://global-uploads.webflow.com/636a3ef2888e14e784cc8d53/636a3ef2888e1450b5cc8d9e_gradient-hero.png");
+  background-image: url("./../../../sddds.png");
   background-color:  var(--bg-matata-color);
   background-position: 50% 120%;
   background-repeat: no-repeat;
